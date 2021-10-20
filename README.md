@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Profile 👋
 
 <!--
 **Egoraizer/Egoraizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/kottans/frontend">a</a>
+<a href="https://vk.com/egoraizer"><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1634733020~hmac=491bb5053a12e97d812f2bbac7e8bf3a" height="50px" width="50px"></a>
