@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/kottans/frontend"></a>
+<a href="https://github.com/kottans/frontend">a</a>
