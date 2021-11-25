@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://vk.com/egoraizer"><img src="https://css-serov.ru/wp-content/uploads/2021/01/vk.png" height="50px" width="50px"></a>
+# Добро пожаловать
